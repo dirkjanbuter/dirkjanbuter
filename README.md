@@ -7,7 +7,7 @@ Dirk Jan Buter's Magazine is about technology for personal development. It featu
 [dirkjanbuter.github.io](https://dirkjanbuter.github.io/)
 
 
-## ...and Join our Patreon!
+## ...and join our Patreon!
 
 [patreon.com/dirkjanbuter](https://patreon.com/dirkjanbuter)
 
