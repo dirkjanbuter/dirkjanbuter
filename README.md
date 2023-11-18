@@ -1,5 +1,13 @@
-# Hello & welcome to my Github-com page
+## Dirk Jan Buter's Magazine
 
-I'm working on Dirk Jan Buter's Magazine and it provides information about technology for personal development, such as artificial intelligence, biohacking, cryonics, virtual reality and quantified self. At the same time, I organize events to meet like-minded people, with an emphasis on presentations, networking moments and fun activities. The magazine aims to share and inspire information and shows that technology can make a positive contribution to the world.
+Dirk Jan Buter's Magazine is about technology for personal development. It features member stories, interviews with experts and innovators, tutorials and reviews of products and services, resources and discussions on safe and ethical use of technology. The magazine focuses on biohacking and artificial intelligence, but also on quantified self, cryonics, virtual reality and more. It offers technology enthusiasts the opportunity to stay abreast of the ever-changing world of technology and the ideas and innovations that come with it.
+
+## Visit our magazine
 
 [dirkjanbuter.github.io](https://dirkjanbuter.github.io/)
+
+
+## Join our Patreon!
+
+[patreon.com/dirkjanbuter](https://patreon.com/dirkjanbuter)
+
