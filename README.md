@@ -4,9 +4,9 @@ Yvonta Innovators Magazine: Exploring Technology for Personal Growth and Innovat
 
 ## Visit our magazine...
 
-[yvonta.com](https://yvonta.com/)
+[yvonta.com](https://yvonta.com/mz)
 
 ## ...and join our community!
 
-[yvonta.com/mz/meet](https://yvonta.com/mz/meet)
+[yvonta.com/mz/enmeet](https://yvonta.com/mz/en-meet)
 
