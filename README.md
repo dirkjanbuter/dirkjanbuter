@@ -1,12 +1,12 @@
-## Dirk Jan Buter's Aspiring Innovators Magazine
+## Yvonta Innovators Magazine
 
-Dirk Jan Buter's Aspiring Innovators Magazine: Exploring Technology for Personal Growth and Innovation. Discover member stories, interviews with experts, tutorials, and ethical tech discussions. Dive into the realms of biohacking, AI, quantified self, cryonics, VR, and more. Be at the forefront of technology's transformative potential.
+Yvonta Innovators Magazine: Exploring Technology for Personal Growth and Innovation. Discover member stories, interviews with experts, tutorials, and ethical tech discussions. Dive into the realms of biohacking, AI, quantified self, cryonics, VR, and more. Be at the forefront of technology's transformative potential.
 
 ## Visit our magazine...
 
-[dirkjanbuter.com](https://dirkjanbuter.com/)
+[yvonta.com](https://yvonta.com/)
 
-## ...and join our Patreon!
+## ...and join our community!
 
-[patreon.com/dirkjanbuter](https://patreon.com/dirkjanbuter)
+[yvonta.com/mz/meet](https://yvonta.com/mz/meet)
 
